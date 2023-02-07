@@ -1,0 +1,67 @@
+{
+  "icons": [
+    {
+      "src": "/images/icon_180x180.b0cecd561b7ccd2002b12447f08c2199.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icon_167x167.76d6ee50e5bd7915eadbb79790e1df41.png",
+      "sizes": "167x167",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icon_152x152.19be4d5ba5c6e725c20e48ad4d4159cb.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icon_120x120.c0bc5dc5b39a1f963048f96e582ac45a.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icon_512x512.46945841d823327ce9aba1935beb68d7.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icon_384x384.97da2cc950d5acb11e24d7d289d0db54.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icon_192x192.ed500c2de455cc2233ec85cdb3c1bf3d.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icon_144x144.fa104fb67acc92ef10978a87ed0577d5.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icon_128x128.990a19873bc4cce3c5486f1d798501db.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icon_96x96.aa099c13523afde1cbfb52777f224845.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/icon_72x72.0cae9643a35b94e312876273a0d44afa.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    }
+  ],
+  "name": "MERN Store",
+  "short_name": "MERNStore",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "MERN Store!",
+  "background_color": "#fff",
+  "theme_color": "#4a68aa"
+}
